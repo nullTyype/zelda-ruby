@@ -1,3 +1,3 @@
 # ZELDA-RUBY
 
-## TLoZ A Link To The Past Style Game Made with Ruby Gosu Gem;
+*TLoZ A Link To The Past Style Game Made with Ruby Gosu Gem*
